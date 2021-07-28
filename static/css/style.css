@@ -204,7 +204,7 @@ body{
 }
 
 .h3tag{
-  color: lightblue;
+  color: #f2cd68;
   font-size:3rem;
   font-family: 'Lato', sans-serif;
   float:left;
@@ -227,7 +227,7 @@ body{
 /* problem */ 
 
 
-.left{
+/* .left{
    height:100vh;
    color:white;
    box-shadow: 0 200px 300px 0 rgba(0, 0, 0, 0.2), 0 200px 10px 0 rgba(0, 0, 0, 0.19);
@@ -238,10 +238,10 @@ body{
     font-family: 'Lato', sans-serif;
     font-size:1.2rem;
     text-shadow: 2px 2px 4px #000000;
-}
+} */
 
 
-.right{
+/* .right{
    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('https://images.unsplash.com/photo-1568358278839-29bbf0089875?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=667&q=80');
    height:100vh;
    color:white;
@@ -253,7 +253,7 @@ body{
    font-size:1.2rem;
    text-shadow: 2px 2px 4px #000000;
 
-}
+} */
 
 
 
@@ -438,6 +438,11 @@ footer img{
 
 .donate1{
   cursor: pointer;
+  background-color: #C087E6;
+  color: white;
+  font-size: 2rem;
+  border-color: #ffffff;
+  /* margin-bottom: 0.5rem; */
 }
 
 @media screen and (max-height: 450px) {
